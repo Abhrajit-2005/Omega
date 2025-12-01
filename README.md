@@ -1,10 +1,10 @@
-##🕹️ Simple Tetris Game in C++ (WinBGIm)
+## 🕹️ Simple Tetris Game in C++ (WinBGIm)
 This is a classic implementation of Tetris built in C++ using the WinBGIm graphics library. It features the seven standard Tetromino shapes, rotation, line clearing, scoring, leveling, and a robust input system.
 
-##📝 Game Description
+## 📝 Game Description
 Tetris is a puzzle video game where the player must maneuver falling geometric shapes, called Tetrominos, onto a playing field. The objective is to manipulate these pieces by moving them sideways and rotating them so that they form a horizontal line of ten blocks without any gaps. When such a line is formed, it disappears, and any blocks above it fall to fill the space. As the game progresses, the speed of the falling pieces increases. The game ends when the stack of pieces reaches the top of the playing field.
 
-#Key Features - 
+# Key Features - 
   1. 7 Standard Tetrominos: All classic shapes (I, J, L, O, S, T, Z) are implemented.
   2. Rotations: Pieces can be rotated clockwise.
   3. Line Clearing: Full horizontal lines are cleared, and a score is awarded.
@@ -12,7 +12,7 @@ Tetris is a puzzle video game where the player must maneuver falling geometric s
   5. Controls: Supports soft drop (fast fall), hard drop (instant lock), and pause.
   6. Simple Graphics: Utilizes the basic drawing capabilities of the WinBGIm library.
 
-##⚙️ Controls
+## ⚙️ Controls
 |   |   |   |   |   |
 |---|---|---|---|---|
 |   |   |   |   |   |
